@@ -1,0 +1,6 @@
+[submodule "FEUP-AEDA-PROJ-1"]
+	path = FEUP-AEDA-PROJ-1
+	url = https://github.com/mariana1412/FEUP-AEDA-PROJ-1.git
+[submodule "FEUP-AEDA-PROJ-2"]
+	path = FEUP-AEDA-PROJ-2
+	url = https://github.com/mariana1412/FEUP-AEDA-PROJ-2.git
